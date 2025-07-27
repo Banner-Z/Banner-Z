@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, there
 
-<!--
-**Banner-Z/Banner-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Haoke Zhang – an NLP researcher at Zhipu AI.
 
-Here are some ideas to get you started:
+I'm currently exploring exciting research directions in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Evaluation 
+- 💻 Code Agents  
+- 🛠 Post-Training  
+
+📫 Feel free to reach me: hkzhangnlp AT 163.com  
+🌐 Personal homepage: [banner-z.github.io](https://banner-z.github.io/)
+
+Have a great day! ☀️
