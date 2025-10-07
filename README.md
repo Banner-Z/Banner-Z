@@ -1,6 +1,6 @@
 ## 👋 Hi, there
 
-I'm Haoke Zhang – an NLP researcher at Zhipu AI.
+I'm Haoke Zhang – an NLP researcher at Zhipu AI ([z.ai](https://chat.z.ai/)).
 
 I'm currently exploring exciting research directions in:
 
